@@ -17,4 +17,4 @@
 * [GiST sorting build](https://commitfest.postgresql.org/29/2276/)
 * [Reduce page overlap of GiST indexes built using sorted method](https://commitfest.postgresql.org/36/3488/)
 
-[Video recording of this talk on YouTube](https://youtu.be/gD5XtWTuPgA)
+[This talk on YouTube](https://youtu.be/gD5XtWTuPgA)
